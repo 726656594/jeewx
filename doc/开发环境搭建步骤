@@ -1,0 +1,9 @@
+
+JeeWx(捷微)，开发环境搭建步骤
+
+1.下载源码
+     标准开发环境：myeclipse8.5+tomcat6+jdk1.7
+     
+2.项目导入到myeclipse中，配置好jdk和tomcat
+3.创建数据库jeewx,数据库脚本，请执行脚本jeewx.sql  
+4.修改数据库配置文件  
